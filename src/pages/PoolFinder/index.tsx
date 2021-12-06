@@ -1,6 +1,6 @@
 import { Currency, ETHER, JSBI, TokenAmount } from 'jetswap-sdk-fantom'
 import React, { useCallback, useEffect, useState } from 'react'
-import { Button, ChevronDownIcon, AddIcon, CardBody, Text } from 'jetswap-uikit-fantom'
+import { Button, ChevronDownIcon, AddIcon, CardBody, Text } from 'loopswap-uikit'
 import CardNav from 'components/CardNav'
 import { LightCard } from 'components/Card'
 import { AutoColumn, ColumnCenter } from 'components/Column'

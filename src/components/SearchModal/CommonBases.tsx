@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text } from 'jetswap-uikit-fantom'
+import { Text } from 'loopswap-uikit'
 import { ChainId, Currency, currencyEquals, ETHER, Token } from 'jetswap-sdk-fantom'
 import styled from 'styled-components'
 

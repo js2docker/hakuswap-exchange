@@ -1,6 +1,6 @@
 import { Trade, TradeType } from 'jetswap-sdk-fantom'
 import React, { useMemo, useState } from 'react'
-import { Text, Button } from 'jetswap-uikit-fantom'
+import { Text, Button } from 'loopswap-uikit'
 import { Repeat } from 'react-feather'
 
 import useI18n from 'hooks/useI18n'

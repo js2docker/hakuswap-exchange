@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { JSBI, Pair, Percent } from 'jetswap-sdk-fantom'
-import { Button, Card as UIKitCard, CardBody, Text } from 'jetswap-uikit-fantom'
+import { Button, Card as UIKitCard, CardBody, Text } from 'loopswap-uikit'
 import { darken } from 'polished'
 import { ChevronDown, ChevronUp } from 'react-feather'
 import { Link } from 'react-router-dom'

@@ -1,7 +1,7 @@
 import React, { useContext, useMemo } from 'react'
 import { ThemeContext } from 'styled-components'
 import { Pair } from 'jetswap-sdk-fantom'
-import { Button, CardBody, Text } from 'jetswap-uikit-fantom'
+import { Button, CardBody, Text } from 'loopswap-uikit'
 import { Link } from 'react-router-dom'
 import CardNav from 'components/CardNav'
 import Question from 'components/QuestionHelper'

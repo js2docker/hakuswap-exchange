@@ -1,6 +1,6 @@
 import React from 'react'
 import { Trade, TradeType } from 'jetswap-sdk-fantom'
-import { Card, CardBody, Text } from 'jetswap-uikit-fantom'
+import { Card, CardBody, Text } from 'loopswap-uikit'
 import useI18n from 'hooks/useI18n'
 import { Field } from '../../state/swap/actions'
 import { useUserSlippageTolerance } from '../../state/user/hooks'

@@ -5,7 +5,7 @@ import { splitSignature } from '@ethersproject/bytes'
 import { Contract } from '@ethersproject/contracts'
 import { TransactionResponse } from '@ethersproject/providers'
 import { Currency, currencyEquals, ETHER, Percent, WETH } from 'jetswap-sdk-fantom'
-import { Button, Flex, Text } from 'jetswap-uikit-fantom'
+import { Button, Flex, Text } from 'loopswap-uikit'
 import { ArrowDown, Plus } from 'react-feather'
 import { RouteComponentProps } from 'react-router'
 

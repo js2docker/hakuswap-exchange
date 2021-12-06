@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Button, Text } from 'jetswap-uikit-fantom'
+import { Button, Text } from 'loopswap-uikit'
 import { TwitterShareButton } from 'react-share'
 import { useActivePopups } from '../../state/application/hooks'
 import { AutoColumn } from '../Column'

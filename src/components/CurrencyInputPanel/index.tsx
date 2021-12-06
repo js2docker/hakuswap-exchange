@@ -1,6 +1,6 @@
 import React, { useState, useCallback } from 'react'
 import { Currency, Pair } from 'jetswap-sdk-fantom'
-import { Button, ChevronDownIcon, Text } from 'jetswap-uikit-fantom'
+import { Button, ChevronDownIcon, Text } from 'loopswap-uikit'
 import styled from 'styled-components'
 import { darken } from 'polished'
 import useI18n from 'hooks/useI18n'

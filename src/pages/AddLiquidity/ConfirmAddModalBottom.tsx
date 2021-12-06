@@ -1,6 +1,6 @@
 import { Currency, CurrencyAmount, Fraction, Percent } from 'jetswap-sdk-fantom'
 import React from 'react'
-import { Button, Text } from 'jetswap-uikit-fantom'
+import { Button, Text } from 'loopswap-uikit'
 import { TranslateString } from 'utils/translateTextHelpers'
 import { RowBetween, RowFixed } from '../../components/Row'
 import CurrencyLogo from '../../components/CurrencyLogo'

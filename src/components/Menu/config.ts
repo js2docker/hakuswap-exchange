@@ -1,4 +1,4 @@
-import { MenuEntry } from 'jetswap-uikit-fantom'
+import { MenuEntry } from 'loopswap-uikit'
 
 const config: MenuEntry[] = [
   {

@@ -1,4 +1,4 @@
-import { Text } from 'jetswap-uikit-fantom'
+import { Text } from 'loopswap-uikit'
 import styled from 'styled-components'
 
 export const Wrapper = styled.div`

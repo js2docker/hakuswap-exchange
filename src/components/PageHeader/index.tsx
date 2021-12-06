@@ -1,6 +1,6 @@
 import React, { ReactNode } from 'react'
 import styled from 'styled-components'
-import { Heading, IconButton, Text, Flex, useModal, CogIcon, Svg } from 'jetswap-uikit-fantom'
+import { Heading, IconButton, Text, Flex, useModal, CogIcon, Svg } from 'loopswap-uikit'
 import useI18n from 'hooks/useI18n'
 import SettingsModal from './SettingsModal'
 import RecentTransactionsModal from './RecentTransactionsModal'

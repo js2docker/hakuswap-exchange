@@ -1,7 +1,7 @@
 import { ChainId } from 'jetswap-sdk-fantom'
 import React, { useContext } from 'react'
 import { ThemeContext } from 'styled-components'
-import { Button, LinkExternal } from 'jetswap-uikit-fantom'
+import { Button, LinkExternal } from 'loopswap-uikit'
 import { ArrowUpCircle } from 'react-feather'
 import { AutoColumn } from '../Column'
 import { getFantomScanLink } from '../../utils'
